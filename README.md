@@ -2,6 +2,7 @@
 
 **Universal Agentic Framework for Video, Writing, and Course Creation with AI**
 
+- Anand Arora
 ---
 
 ## Overview
