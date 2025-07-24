@@ -1,0 +1,3 @@
+# SVACC Method
+
+Agile framework for video and content creation using AI agents...

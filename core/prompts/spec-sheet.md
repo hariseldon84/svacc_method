@@ -1,0 +1,3 @@
+# Prompt Template: Content Spec Agent
+
+Define content objective, audience, format...

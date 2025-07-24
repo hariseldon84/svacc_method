@@ -1,0 +1,3 @@
+# Prompt Template: Brainstorm Agent
+
+Generate 5 content ideas...

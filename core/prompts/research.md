@@ -1,0 +1,3 @@
+# Prompt Template: Research Agent
+
+Research latest trends and data...

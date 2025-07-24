@@ -1,0 +1,3 @@
+# Example: Blog Series
+
+1. Choose core theme...

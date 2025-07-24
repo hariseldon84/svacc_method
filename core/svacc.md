@@ -1,0 +1,3 @@
+# SVACC Method
+
+Systematic Video And Content Creation Method (SVACC)...

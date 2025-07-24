@@ -1,0 +1,3 @@
+# Example: Online Course
+
+1. Define course objective...

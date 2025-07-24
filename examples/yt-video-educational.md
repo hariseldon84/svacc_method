@@ -1,0 +1,3 @@
+# Example: Educational YouTube Video
+
+1. Brainstorm idea...

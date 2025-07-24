@@ -1,0 +1,3 @@
+# Prompt Template: Script Planner
+
+Break down content into scenes or chapters...
