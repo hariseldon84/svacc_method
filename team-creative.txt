@@ -1,0 +1,12 @@
+# SVACC Full-Stack Content Team
+
+- **Creative Producer**: Oversees the entire content project, ensures vision and deadlines are met
+- **Story Architect**: Designs the narrative structure, flow, and pacing
+- **Visual Designer**: Creates graphics, layouts, and visual assets
+- **Scriptwriter**: Writes scripts, chapters, or blog posts
+- **Researcher**: Gathers data, trends, and inspiration
+- **Editor**: Refines drafts, ensures clarity and consistency
+- **Voice Artist**: Records narration or voiceovers
+- **Video Editor**: Assembles and edits video content
+- **QA Reviewer**: Checks quality, accuracy, and alignment
+- **Distribution Manager**: Publishes and promotes content 

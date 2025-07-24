@@ -1,3 +1,33 @@
-- Brainstorm Agent
-- Research Agent
-- Content Spec Agent...
+# SVACC Workflow: Book Production
+
+phases:
+  - name: Ideation
+    agents:
+      - Brainstorm Agent
+      - Research Agent
+  - name: Specification
+    agents:
+      - Content Spec Agent
+      - Script Planner Agent
+  - name: Design
+    agents:
+      - Design Agent
+  - name: Production
+    agents:
+      - Producer Agent
+      - Direction Agent
+  - name: QA & Launch
+    agents:
+      - QA Agent
+      - Launch Agent
+
+steps:
+  - Brainstorm book themes and genres
+  - Research market, trends, and references
+  - Create book spec (objective, audience, outline)
+  - Break down chapters, scenes, or modules
+  - Design cover, layout, and illustrations
+  - Build writing/editing schedule
+  - Write, edit, and assemble manuscript
+  - QA review for quality and consistency
+  - Publish to Kindle, print, or other platforms

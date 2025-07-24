@@ -1,3 +1,33 @@
-- Brainstorm Agent
-- Research Agent
-- Content Spec Agent...
+# SVACC Workflow: Blog/Article Production
+
+phases:
+  - name: Ideation
+    agents:
+      - Brainstorm Agent
+      - Research Agent
+  - name: Specification
+    agents:
+      - Content Spec Agent
+      - Script Planner Agent
+  - name: Design
+    agents:
+      - Design Agent
+  - name: Production
+    agents:
+      - Producer Agent
+      - Direction Agent
+  - name: QA & Launch
+    agents:
+      - QA Agent
+      - Launch Agent
+
+steps:
+  - Brainstorm blog topics and angles
+  - Research trends, data, and references
+  - Create article spec (objective, audience, outline)
+  - Break down sections and key points
+  - Design visuals, graphics, and layout
+  - Build writing/editing schedule
+  - Write, edit, and assemble article
+  - QA review for quality and consistency
+  - Publish to blog or newsletter

@@ -1,3 +1,33 @@
-- Brainstorm Agent
-- Research Agent
-- Content Spec Agent...
+# SVACC Workflow: Course Production
+
+phases:
+  - name: Ideation
+    agents:
+      - Brainstorm Agent
+      - Research Agent
+  - name: Specification
+    agents:
+      - Content Spec Agent
+      - Script Planner Agent
+  - name: Design
+    agents:
+      - Design Agent
+  - name: Production
+    agents:
+      - Producer Agent
+      - Direction Agent
+  - name: QA & Launch
+    agents:
+      - QA Agent
+      - Launch Agent
+
+steps:
+  - Brainstorm course topics and structure
+  - Research market, trends, and references
+  - Create course spec (objective, audience, outline)
+  - Break down modules, lessons, and activities
+  - Design slides, visuals, and course assets
+  - Build production schedule
+  - Record, edit, and assemble course content
+  - QA review for quality and consistency
+  - Publish to LMS or course platform

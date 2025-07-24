@@ -1,2 +1,11 @@
-Brainstorm Agent: Generates raw content ideas...
-Research Agent: Gathers supporting data and trends...
+# SVACC Agents
+
+- **Brainstorm Agent**: Ideates content themes, topics, and creative angles. Like a Business Analyst for content.
+- **Research Agent**: Gathers relevant data, trends, references, and inspiration to inform the content.
+- **Content Spec Agent**: Creates a PRD-style specification for the content (objective, type, audience, outline, format).
+- **Script Planner Agent**: Breaks down the content into epics/stories (chapters, scenes, modules, shots).
+- **Design Agent**: Generates visual/UX/design elements (thumbnails, layouts, storyboards, cover art).
+- **Producer Agent**: Converts the plan into a production schedule, manages resources and deadlines.
+- **Direction Agent**: Executes production (video, audio, editing, animation, etc.), can trigger external tools.
+- **QA Agent**: Verifies quality, consistency, and alignment with the original vision/spec.
+- **Launch Agent**: Publishes the final content to platforms (YouTube, Kindle, LMS, Substack, etc.) and manages distribution.

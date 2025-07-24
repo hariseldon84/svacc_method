@@ -1,7 +1,9 @@
-- Claude Code
-- Cursor
-- Windsurf
-- ChatGPT
-- RunwayML
-- Descript
-- YouTube Studio...
+# SVACC Supported Tools
+
+- **LLMs**: ChatGPT, Claude, Gemini, Grok, Qwen, Windsurf
+- **Video/Audio**: RunwayML, Pika, Descript, Adobe Premiere, Final Cut Pro, CapCut
+- **Voice**: ElevenLabs, PlayHT, Murf
+- **Design/Visuals**: Canva, Figma, Midjourney, DALL-E, Stable Diffusion
+- **Writing/Editing**: Cursor, Notion, Google Docs, Grammarly
+- **Publishing**: YouTube, Kindle Direct Publishing, Substack, Udemy, Teachable, LMS platforms
+- **Automation/Integration**: Zapier, Make, custom scripts

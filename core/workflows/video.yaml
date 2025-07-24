@@ -1,3 +1,33 @@
-- Brainstorm Agent
-- Research Agent
-- Content Spec Agent...
+# SVACC Workflow: YouTube Video Production
+
+phases:
+  - name: Ideation
+    agents:
+      - Brainstorm Agent
+      - Research Agent
+  - name: Specification
+    agents:
+      - Content Spec Agent
+      - Script Planner Agent
+  - name: Design
+    agents:
+      - Design Agent
+  - name: Production
+    agents:
+      - Producer Agent
+      - Direction Agent
+  - name: QA & Launch
+    agents:
+      - QA Agent
+      - Launch Agent
+
+steps:
+  - Brainstorm content ideas and angles
+  - Research trends, data, and inspiration
+  - Create content spec (objective, audience, outline)
+  - Break down script into scenes/sections
+  - Design visuals, thumbnails, storyboards
+  - Build production schedule and assign tasks
+  - Record, edit, and assemble video
+  - QA review for quality and consistency
+  - Publish to YouTube and promote
